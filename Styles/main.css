@@ -53,6 +53,14 @@ a{
     padding: 20px;
 
 }
+.targeContainer:hover{
+    position: absolute;
+    border: solid 10px var(--Very-dark-blue-one);
+    box-shadow: 9px 9px 7px var(--Very-dark-blue-two);
+    width: 320px;
+    height: 500px;
+    border-radius: 20px;
+}
 .targeContainer__link-imagen{
     height:250px;
     width: 260px;
